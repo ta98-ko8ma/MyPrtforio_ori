@@ -1,0 +1,78 @@
+header {
+  /* background-color: red; */
+  padding-bottom: 50px;
+
+}
+
+.main {
+  
+}
+header h1 {
+  font-size: 3em;
+  text-align: center;
+  padding-bottom: 50px;
+  /* background-color: blueviolet; */
+}
+
+.container {
+  /* background-color: blue; */
+}
+
+.icon {
+  float: left;
+  padding-right: 10px;
+  padding-left: 100px;
+}
+
+.icon img {
+  border-radius: 50%;
+  width:200px;
+  height: 200px;
+}
+
+.info {
+  padding-right: 100px;
+}
+.info h2 {
+  font-size: 2em;
+}
+
+.info p {
+  font-size: 18px;
+}
+.keireki {
+  /* background-color: aqua; */
+  text-align: center;
+}
+
+.keireki h3 {
+  font-size: 2em;
+  margin-top: 0px;
+}
+
+.keireki p {
+  font-size: 18px;
+  line-height: 5px; 
+}
+
+.neko {
+  /* background-color: green; */
+  text-align: center;
+}
+
+.neko img {
+  border-radius: 15%;
+}
+.neko h3 {
+  font-size: 2em;
+  margin-top: 50px;
+}
+
+.neko p {
+  font-size :18px;
+}
+
+footer {
+  text-align: center;
+  color:gray;
+}
